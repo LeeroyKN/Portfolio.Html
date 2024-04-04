@@ -1,0 +1,17 @@
+.flex.container {
+    display: flex;
+    margin:10px;
+    padding:20px;
+}
+
+#firstdiv {
+    background-color: lightblue;
+    height: 50px;
+    width: 50px;
+}
+
+#second div {
+    background-color: lightgreen;
+    height: 50px;
+    width: 50px;
+}
